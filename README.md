@@ -3,6 +3,8 @@
 Turns markers on a Shotcut (`.mlt`) project into a LiveSplit-style lap timer, checks if you set
 a new PB, and trims the timeline down to your best laps — one guided command.
 
+📺 [Watch the how-to video](https://youtu.be/9VmVd_KXbB8)
+
 ## Requirements
 
 - **[Shotcut](https://shotcut.org/)** — a free, open-source video editor. These scripts read
