@@ -5,6 +5,8 @@ a new PB, and trims the timeline down to your best laps — one guided command.
 
 📺 [Watch the how-to video](https://youtu.be/9VmVd_KXbB8)
 
+> **Heads up:** this was entirely vibe coded with Claude. It works, but read it with that in mind.
+
 ## Requirements
 
 - **[Shotcut](https://shotcut.org/)** — a free, open-source video editor. These scripts read
